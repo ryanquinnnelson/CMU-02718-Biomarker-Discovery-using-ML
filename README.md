@@ -1,6 +1,8 @@
 # CMU-02718-HW2
 Fall 2020 Computational Medicine course project - Biomarker Discovery on Immunological Data
 
+
+### Summary 
 This project uses feature selection to identify inflammatory biomarkers that can distinguish between one of three conditions in children:
 - SARS-CoV-2
 - Multi-system Inflammatory Syndrome in Children (MIS-C)
