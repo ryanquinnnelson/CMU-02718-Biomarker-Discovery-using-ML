@@ -1,5 +1,5 @@
 # CMU-02718-HW2
-Fall 2020 Computational Medicine course project - Biomarker Discovery on Immunological Data
+Fall 2020 - Computational Medicine course project - Biomarker Discovery on Immunological Data
 
 
 ### Summary 
